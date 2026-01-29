@@ -22,7 +22,7 @@ echo 'running  tests'
 stage('deploy')
 {
 steps{
-ech0 'Deploying '
+echo 'Deploying '
 }
 }
 }
